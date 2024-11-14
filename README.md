@@ -3,6 +3,12 @@
 # johnny-depp
 DEPL repository for Yann & Anthony
 
+[﻿Figure 1](https://app.eraser.io/workspace/UlXddkWAqR9p46ACUGX3?elements=G-dXK-L7drDANYuhPRGGaw) 
+
+[﻿Figure 2](https://app.eraser.io/workspace/UlXddkWAqR9p46ACUGX3?elements=QpYWrFzQdeuC1C_aPQqUig) 
+
+
+
 
 
 <!--- Eraser file: https://app.eraser.io/workspace/UlXddkWAqR9p46ACUGX3 --->
