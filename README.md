@@ -3,7 +3,7 @@
 # johnny-depp
 DEPL repository for Yann & Anthony
 
-![Figure 1](undefined "Figure 1")
+![Figure 1](/.eraser/UlXddkWAqR9p46ACUGX3___uz7sTbrDV2bvpLzex5kzFZIrBMH2___---figure---RHNFtS_HGFWGPAlKbLoky---figure---G-dXK-L7drDANYuhPRGGaw.png "Figure 1")
 
 ![Figure 2](undefined "Figure 2")
 
