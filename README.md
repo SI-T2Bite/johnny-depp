@@ -3,9 +3,13 @@
 # johnny-depp
 DEPL repository for Yann & Anthony
 
-![Figure 1](/.eraser/UlXddkWAqR9p46ACUGX3___uz7sTbrDV2bvpLzex5kzFZIrBMH2___---figure---6Emjz1N0YgXxY6hbWofyr---figure---G-dXK-L7drDANYuhPRGGaw.png "Figure 1")
+![Figure 1](/.eraser/UlXddkWAqR9p46ACUGX3___uz7sTbrDV2bvpLzex5kzFZIrBMH2___---figure---KYwRQzq4KIcRWLdNHHSfm---figure---G-dXK-L7drDANYuhPRGGaw.png "Figure 1")
 
-![Figure 2](/.eraser/UlXddkWAqR9p46ACUGX3___uz7sTbrDV2bvpLzex5kzFZIrBMH2___---figure---zjoRLeKvgTg_9aa0g69p2---figure---QpYWrFzQdeuC1C_aPQqUig.png "Figure 2")
+![Figure 2](/.eraser/UlXddkWAqR9p46ACUGX3___uz7sTbrDV2bvpLzex5kzFZIrBMH2___---figure----vAMKDmQmVkCM6-AQHO09---figure---QpYWrFzQdeuC1C_aPQqUig.png "Figure 2")
+
+![Figure 1](/.eraser/UlXddkWAqR9p46ACUGX3___uz7sTbrDV2bvpLzex5kzFZIrBMH2___---figure---KYwRQzq4KIcRWLdNHHSfm---figure---G-dXK-L7drDANYuhPRGGaw.png "Figure 1")
+
+![Figure 2](/.eraser/UlXddkWAqR9p46ACUGX3___uz7sTbrDV2bvpLzex5kzFZIrBMH2___---figure----vAMKDmQmVkCM6-AQHO09---figure---QpYWrFzQdeuC1C_aPQqUig.png "Figure 2")
 
 
 
