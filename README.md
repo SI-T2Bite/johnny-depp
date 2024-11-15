@@ -3,9 +3,9 @@
 # johnny-depp
 DEPL repository for Yann & Anthony
 
-![Figure 1](/.eraser/UlXddkWAqR9p46ACUGX3___uz7sTbrDV2bvpLzex5kzFZIrBMH2___---figure---QVO_B2BnUTgA8EAoj9KfR---figure---G-dXK-L7drDANYuhPRGGaw.png "Figure 1")
+![Figure 1](undefined "Figure 1")
 
-![Figure 2](/.eraser/UlXddkWAqR9p46ACUGX3___uz7sTbrDV2bvpLzex5kzFZIrBMH2___---figure---BLYdnW5RjwgcuslowQsTx---figure---QpYWrFzQdeuC1C_aPQqUig.png "Figure 2")
+![Figure 2](undefined "Figure 2")
 
 
 
